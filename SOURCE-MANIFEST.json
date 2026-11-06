@@ -1,0 +1,1114 @@
+{
+  "baseline": "IKO 0.3.11+94",
+  "recordDate": "2026-11-04",
+  "extractedOn": "2026-11-06",
+  "files": [
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/BrushStyle.java",
+      "target": "app/src/main/java/app/iko/notes/BrushStyle.java",
+      "sourceSha256": "596f8e2db2c0924c6cffa562a835b0861da79ba60ee720eeb42fcb7457966eae",
+      "publishedSha256": "596f8e2db2c0924c6cffa562a835b0861da79ba60ee720eeb42fcb7457966eae",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ContinuousPages.java",
+      "target": "app/src/main/java/app/iko/notes/ContinuousPages.java",
+      "sourceSha256": "2ac58709ed8467c0f5a81b8a703d0d4c12e494b2ce5878529622c27ca52704d7",
+      "publishedSha256": "2ac58709ed8467c0f5a81b8a703d0d4c12e494b2ce5878529622c27ca52704d7",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/CoverCatalog.java",
+      "target": "app/src/main/java/app/iko/notes/CoverCatalog.java",
+      "sourceSha256": "f16b9bb4c33fc716e722873fa1285b38bb2826d716a730ab672c5a5115d9666b",
+      "publishedSha256": "f16b9bb4c33fc716e722873fa1285b38bb2826d716a730ab672c5a5115d9666b",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/DocumentStore.java",
+      "target": "app/src/main/java/app/iko/notes/DocumentStore.java",
+      "sourceSha256": "240c2b0dbca2077d5687c025b70b6a28ccbfc2782659d03aae4af5a9cf2bbf6f",
+      "publishedSha256": "240c2b0dbca2077d5687c025b70b6a28ccbfc2782659d03aae4af5a9cf2bbf6f",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/GeometryPresets.java",
+      "target": "app/src/main/java/app/iko/notes/GeometryPresets.java",
+      "sourceSha256": "f090c49a3ba8a92ecec5eefa5d56035edc675a5b0444dfd2ab364d4c7f9065eb",
+      "publishedSha256": "f090c49a3ba8a92ecec5eefa5d56035edc675a5b0444dfd2ab364d4c7f9065eb",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InfiniteCanvas.java",
+      "target": "app/src/main/java/app/iko/notes/InfiniteCanvas.java",
+      "sourceSha256": "528503d7c894d28287212e8f6fac2c7c263d687e4077a118564032ceeafc91ab",
+      "publishedSha256": "528503d7c894d28287212e8f6fac2c7c263d687e4077a118564032ceeafc91ab",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InfinitePanCache.java",
+      "target": "app/src/main/java/app/iko/notes/InfinitePanCache.java",
+      "sourceSha256": "38b958a0c56074397ff59f755bc64b8a20ff9d0c5d4743d4c152f84689cd663d",
+      "publishedSha256": "38b958a0c56074397ff59f755bc64b8a20ff9d0c5d4743d4c152f84689cd663d",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InkGeometry.java",
+      "target": "app/src/main/java/app/iko/notes/InkGeometry.java",
+      "sourceSha256": "24101be22cf5ef1a6c55301188365f0e4319aa83c2db571097bf4d2023e72a0f",
+      "publishedSha256": "24101be22cf5ef1a6c55301188365f0e4319aa83c2db571097bf4d2023e72a0f",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InkHistory.java",
+      "target": "app/src/main/java/app/iko/notes/InkHistory.java",
+      "sourceSha256": "d1563e2366f59b95c5211d13b38c1e36c01fd15d4c99b14d6f15f8abd3fa29ab",
+      "publishedSha256": "d1563e2366f59b95c5211d13b38c1e36c01fd15d4c99b14d6f15f8abd3fa29ab",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InkView.java",
+      "target": "app/src/main/java/app/iko/notes/InkView.java",
+      "sourceSha256": "37a0a38007befb5e515e2f3df89499c63120224543e6ffda6e129cfc5b375226",
+      "publishedSha256": "37a0a38007befb5e515e2f3df89499c63120224543e6ffda6e129cfc5b375226",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InkViewportCache.java",
+      "target": "app/src/main/java/app/iko/notes/InkViewportCache.java",
+      "sourceSha256": "5dee481b9b65de4ce66938b43c97469395a23e3714f9efeff7253f74e28fe354",
+      "publishedSha256": "5dee481b9b65de4ce66938b43c97469395a23e3714f9efeff7253f74e28fe354",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/LaserPointer.java",
+      "target": "app/src/main/java/app/iko/notes/LaserPointer.java",
+      "sourceSha256": "a48682488f0d480fb1d36b5774c92960ac385e18f26b407f540a77ac583ee844",
+      "publishedSha256": "9f1f64010012197c5a756cafce760065761636afea14bcf5da20aa8f497ef91f",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/LibraryEntry.java",
+      "target": "app/src/main/java/app/iko/notes/LibraryEntry.java",
+      "sourceSha256": "d88f0cfeb462845e63005ac37b9c73b83fbaa12b57a26c0a05c58ac81e043e07",
+      "publishedSha256": "d88f0cfeb462845e63005ac37b9c73b83fbaa12b57a26c0a05c58ac81e043e07",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NoteDocument.java",
+      "target": "app/src/main/java/app/iko/notes/NoteDocument.java",
+      "sourceSha256": "df2d0bc00afd4ea05c69e1a31334ff1a50731bf3373cd41b4ee1ffeb436f1adf",
+      "publishedSha256": "bd2955a64d9daf8559815e337d1f7edfeae2049d31bcf7ba068e7009e7479ea3",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ObjectTransform.java",
+      "target": "app/src/main/java/app/iko/notes/ObjectTransform.java",
+      "sourceSha256": "5af0dbcbefb7c6dcb0dc24d07283eb056283ec2c5735541aacf8541532c2f0a1",
+      "publishedSha256": "5af0dbcbefb7c6dcb0dc24d07283eb056283ec2c5735541aacf8541532c2f0a1",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PageMediaCache.java",
+      "target": "app/src/main/java/app/iko/notes/PageMediaCache.java",
+      "sourceSha256": "612248f209eac6085e26bf1d5695b9e70799883caaf2dfe2c12f9a3f59318ea1",
+      "publishedSha256": "612248f209eac6085e26bf1d5695b9e70799883caaf2dfe2c12f9a3f59318ea1",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PageNavigation.java",
+      "target": "app/src/main/java/app/iko/notes/PageNavigation.java",
+      "sourceSha256": "6485c2197f28b43bdc2d4c74968bb0ac06fe34e7217e41616fcf1528aa1de6a0",
+      "publishedSha256": "6485c2197f28b43bdc2d4c74968bb0ac06fe34e7217e41616fcf1528aa1de6a0",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PagePullIndicator.java",
+      "target": "app/src/main/java/app/iko/notes/PagePullIndicator.java",
+      "sourceSha256": "f39fa6b0178d5efc58de65ada42f829a7452660c8509902f004ba97405f175ba",
+      "publishedSha256": "f39fa6b0178d5efc58de65ada42f829a7452660c8509902f004ba97405f175ba",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PageRenderer.java",
+      "target": "app/src/main/java/app/iko/notes/PageRenderer.java",
+      "sourceSha256": "f69a8f5651bfae1f876f32fa267d956dc4539b27445e2beae9b7ce94a0be24fc",
+      "publishedSha256": "8809c3390aa5ec46f31a899b78c974a8e809ff1f8d4f3237c10e87e0e168f3f6",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PaperCatalog.java",
+      "target": "app/src/main/java/app/iko/notes/PaperCatalog.java",
+      "sourceSha256": "be2b784fc8eb798b8e1549a05c3008eb23363d20083511e6001f806f9a796096",
+      "publishedSha256": "be2b784fc8eb798b8e1549a05c3008eb23363d20083511e6001f806f9a796096",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PdfDetailCache.java",
+      "target": "app/src/main/java/app/iko/notes/PdfDetailCache.java",
+      "sourceSha256": "5f178bef5995860065588257eeb066ef71387290cce608025b374bdbca25a343",
+      "publishedSha256": "5f178bef5995860065588257eeb066ef71387290cce608025b374bdbca25a343",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PenPreset.java",
+      "target": "app/src/main/java/app/iko/notes/PenPreset.java",
+      "sourceSha256": "3b4de6ebcb3c292da9b8d19cebb2c6a53c04895f249bfa324be32f5ebb4ee9e2",
+      "publishedSha256": "3b4de6ebcb3c292da9b8d19cebb2c6a53c04895f249bfa324be32f5ebb4ee9e2",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/RotationGlyph.java",
+      "target": "app/src/main/java/app/iko/notes/RotationGlyph.java",
+      "sourceSha256": "2f74efe5630a64a37f0a387b94a41ed1285e2ecbeac47abb2fae593a0bc13292",
+      "publishedSha256": "2f74efe5630a64a37f0a387b94a41ed1285e2ecbeac47abb2fae593a0bc13292",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/StrokeEraser.java",
+      "target": "app/src/main/java/app/iko/notes/StrokeEraser.java",
+      "sourceSha256": "ebd7d291a14f72142f8081831f771bda029145f53652e1555830fd16bb031090",
+      "publishedSha256": "ebd7d291a14f72142f8081831f771bda029145f53652e1555830fd16bb031090",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/StrokeSpatialIndex.java",
+      "target": "app/src/main/java/app/iko/notes/StrokeSpatialIndex.java",
+      "sourceSha256": "869dfd6352d15d1181096471a2324360e6308d83f145ac2876998c06146d9fac",
+      "publishedSha256": "869dfd6352d15d1181096471a2324360e6308d83f145ac2876998c06146d9fac",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/TapeArt.java",
+      "target": "app/src/main/java/app/iko/notes/TapeArt.java",
+      "sourceSha256": "47c8bbecab55e5374ff7f1dba67bd0fbe7bbdb64bed65647eb54b355949016d1",
+      "publishedSha256": "47c8bbecab55e5374ff7f1dba67bd0fbe7bbdb64bed65647eb54b355949016d1",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ThemePalette.java",
+      "target": "app/src/main/java/app/iko/notes/ThemePalette.java",
+      "sourceSha256": "b0cb52c7d765c67bf919df529d12d84eed197db57c1f9b6a203ea47a0d9fd489",
+      "publishedSha256": "b0cb52c7d765c67bf919df529d12d84eed197db57c1f9b6a203ea47a0d9fd489",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/Ui.java",
+      "target": "app/src/main/java/app/iko/notes/Ui.java",
+      "sourceSha256": "8ca8ca31cf1567c34d60e20b2a8526e221c57bb69c3673f1a7da0c823367d02a",
+      "publishedSha256": "8ca8ca31cf1567c34d60e20b2a8526e221c57bb69c3673f1a7da0c823367d02a",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/NoteDocumentTest.java",
+      "target": "app/src/test/java/app/iko/notes/NoteDocumentTest.java",
+      "sourceSha256": "4865d34987539c6bd3b1e98ecac49a068fa94ffff799d21040aec6fb4090f32e",
+      "publishedSha256": "4865d34987539c6bd3b1e98ecac49a068fa94ffff799d21040aec6fb4090f32e",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/InkGeometryTest.java",
+      "target": "app/src/test/java/app/iko/notes/InkGeometryTest.java",
+      "sourceSha256": "7fc29f4fed9af2cc404ce0b167a9fd82cc32b6d46a032ac288eb6a8bfd73d97c",
+      "publishedSha256": "7fc29f4fed9af2cc404ce0b167a9fd82cc32b6d46a032ac288eb6a8bfd73d97c",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/InkHistoryTest.java",
+      "target": "app/src/test/java/app/iko/notes/InkHistoryTest.java",
+      "sourceSha256": "482c674a451ab9a7df229b887c15898e6ff11219ed1e2c2e901e51c83c77b7ab",
+      "publishedSha256": "482c674a451ab9a7df229b887c15898e6ff11219ed1e2c2e901e51c83c77b7ab",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/BrushStyleTest.java",
+      "target": "app/src/test/java/app/iko/notes/BrushStyleTest.java",
+      "sourceSha256": "9ca67c414f12ef5a26b99a3a5e783e666a09d52cedb6093958fd893e95953ac5",
+      "publishedSha256": "9ca67c414f12ef5a26b99a3a5e783e666a09d52cedb6093958fd893e95953ac5",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/StrokeEraserTest.java",
+      "target": "app/src/test/java/app/iko/notes/StrokeEraserTest.java",
+      "sourceSha256": "cbba696b616406e2440315cc956523f633cd82be6150d925867af1f1c7f1b733",
+      "publishedSha256": "cbba696b616406e2440315cc956523f633cd82be6150d925867af1f1c7f1b733",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/StrokeSpatialIndexTest.java",
+      "target": "app/src/test/java/app/iko/notes/StrokeSpatialIndexTest.java",
+      "sourceSha256": "1de41d1db126f831c91b34b138e618699cf867b3733dad79071449c0c3ef1e50",
+      "publishedSha256": "1de41d1db126f831c91b34b138e618699cf867b3733dad79071449c0c3ef1e50",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/ObjectTransformTest.java",
+      "target": "app/src/test/java/app/iko/notes/ObjectTransformTest.java",
+      "sourceSha256": "791b60932f18062f07a86c9ee9e3e3565060f661b5c24ca19ef2d9ac42f83ed7",
+      "publishedSha256": "791b60932f18062f07a86c9ee9e3e3565060f661b5c24ca19ef2d9ac42f83ed7",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/PenPresetTest.java",
+      "target": "app/src/test/java/app/iko/notes/PenPresetTest.java",
+      "sourceSha256": "151b85f5527f821427a2bfeb9cd25bd88086b638b7d856f6ee26a0a8ee2a55e2",
+      "publishedSha256": "151b85f5527f821427a2bfeb9cd25bd88086b638b7d856f6ee26a0a8ee2a55e2",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/PaperCatalogTest.java",
+      "target": "app/src/test/java/app/iko/notes/PaperCatalogTest.java",
+      "sourceSha256": "f37476b3f9567d981fe2d807fac9890727c7343be865233061e8ed2179cf2d33",
+      "publishedSha256": "f37476b3f9567d981fe2d807fac9890727c7343be865233061e8ed2179cf2d33",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/test/java/app/iko/notes/PageNavigationTest.java",
+      "target": "app/src/test/java/app/iko/notes/PageNavigationTest.java",
+      "sourceSha256": "13bf7ce7ebdd395ef2dda00827ef65dbbd4b83855c012bf7ad753b3c9494a531",
+      "publishedSha256": "13bf7ce7ebdd395ef2dda00827ef65dbbd4b83855c012bf7ad753b3c9494a531",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/AppearanceView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/AppearanceView.java",
+      "sourceSha256": "ae0b7e175b923d2d211ead6f522516039502b5fa944539379a62a5d8928fb6e8",
+      "publishedSha256": "ae0b7e175b923d2d211ead6f522516039502b5fa944539379a62a5d8928fb6e8",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ArchivePolicy.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ArchivePolicy.java",
+      "sourceSha256": "14be9c92bd7f1b59e96eb0e8a6ed97ca1bab50cccda84dadf408455fa564a231",
+      "publishedSha256": "14be9c92bd7f1b59e96eb0e8a6ed97ca1bab50cccda84dadf408455fa564a231",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/BrushPreviewView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/BrushPreviewView.java",
+      "sourceSha256": "288ccb1f631683229e212ae7c87af884c726ea41e84af0e7f4cd9ef7dd838447",
+      "publishedSha256": "288ccb1f631683229e212ae7c87af884c726ea41e84af0e7f4cd9ef7dd838447",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/BrushStyle.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/BrushStyle.java",
+      "sourceSha256": "596f8e2db2c0924c6cffa562a835b0861da79ba60ee720eeb42fcb7457966eae",
+      "publishedSha256": "596f8e2db2c0924c6cffa562a835b0861da79ba60ee720eeb42fcb7457966eae",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/CaptureCropView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/CaptureCropView.java",
+      "sourceSha256": "afa2ae36bfdb208339a3ede6310c214a8f776feef632b7a73763e9317ed52b6d",
+      "publishedSha256": "afa2ae36bfdb208339a3ede6310c214a8f776feef632b7a73763e9317ed52b6d",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ColorPickerView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ColorPickerView.java",
+      "sourceSha256": "707bb21e55f164c057c99d13d703252a0c350fa059d34e4b540e70073686135e",
+      "publishedSha256": "b9439593028edcbb68367b09f28a6792f5001091318df2dd9886d56e56c1b04b",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ContinuousPages.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ContinuousPages.java",
+      "sourceSha256": "2ac58709ed8467c0f5a81b8a703d0d4c12e494b2ce5878529622c27ca52704d7",
+      "publishedSha256": "2ac58709ed8467c0f5a81b8a703d0d4c12e494b2ce5878529622c27ca52704d7",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/CoverArtView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/CoverArtView.java",
+      "sourceSha256": "c0c9489556cfa70bb8564b5c685c44a17f84d4226adcde91ef5d6b0822a007fb",
+      "publishedSha256": "c0c9489556cfa70bb8564b5c685c44a17f84d4226adcde91ef5d6b0822a007fb",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/CoverCatalog.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/CoverCatalog.java",
+      "sourceSha256": "f16b9bb4c33fc716e722873fa1285b38bb2826d716a730ab672c5a5115d9666b",
+      "publishedSha256": "f16b9bb4c33fc716e722873fa1285b38bb2826d716a730ab672c5a5115d9666b",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/CoverPickerView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/CoverPickerView.java",
+      "sourceSha256": "0b8d6ac6b05dd9633eca224e6de16a05e520ce440b30c2ed6e68f63a301ffd6b",
+      "publishedSha256": "0b8d6ac6b05dd9633eca224e6de16a05e520ce440b30c2ed6e68f63a301ffd6b",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/DocumentStore.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/DocumentStore.java",
+      "sourceSha256": "240c2b0dbca2077d5687c025b70b6a28ccbfc2782659d03aae4af5a9cf2bbf6f",
+      "publishedSha256": "240c2b0dbca2077d5687c025b70b6a28ccbfc2782659d03aae4af5a9cf2bbf6f",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/DocxGridLayout.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/DocxGridLayout.java",
+      "sourceSha256": "4e324e927dd3754ebc1e0415863990f7c67344137c88a091d9fe2c432b66c3b9",
+      "publishedSha256": "4e324e927dd3754ebc1e0415863990f7c67344137c88a091d9fe2c432b66c3b9",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/DocxImport.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/DocxImport.java",
+      "sourceSha256": "445e0913e692bba4597c8d73634c3fd438feb262071f0050f3f211d110ecbfd5",
+      "publishedSha256": "445e0913e692bba4597c8d73634c3fd438feb262071f0050f3f211d110ecbfd5",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/DocxRenderService.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/DocxRenderService.java",
+      "sourceSha256": "e244867dcf1fa7243c3f2ee97da6df78c2c2d730ea7242180914fc774a08db1d",
+      "publishedSha256": "e244867dcf1fa7243c3f2ee97da6df78c2c2d730ea7242180914fc774a08db1d",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/DragSlider.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/DragSlider.java",
+      "sourceSha256": "7bf68b6503122bde924a2f340851f5d11e471dc4eafe202ad71e1f028284a498",
+      "publishedSha256": "7bf68b6503122bde924a2f340851f5d11e471dc4eafe202ad71e1f028284a498",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/FileBadgeView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/FileBadgeView.java",
+      "sourceSha256": "a98cca81812fcfbe923024d8e2e8a2f633630b2438382327d429648adcf32aa4",
+      "publishedSha256": "a98cca81812fcfbe923024d8e2e8a2f633630b2438382327d429648adcf32aa4",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/FocusWritingView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/FocusWritingView.java",
+      "sourceSha256": "42a36bd1f9eb1d921e36f365a136042ae16eb58144a072ad1f9dfe7a1d7d41a3",
+      "publishedSha256": "42a36bd1f9eb1d921e36f365a136042ae16eb58144a072ad1f9dfe7a1d7d41a3",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/GeometryPresets.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/GeometryPresets.java",
+      "sourceSha256": "f090c49a3ba8a92ecec5eefa5d56035edc675a5b0444dfd2ab364d4c7f9065eb",
+      "publishedSha256": "f090c49a3ba8a92ecec5eefa5d56035edc675a5b0444dfd2ab364d4c7f9065eb",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/HostNavigation.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/HostNavigation.java",
+      "sourceSha256": "345afe69d1c612906599b015370846bda017e64ad1c2e2be70dcf043b4a7453f",
+      "publishedSha256": "345afe69d1c612906599b015370846bda017e64ad1c2e2be70dcf043b4a7453f",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/IconView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/IconView.java",
+      "sourceSha256": "cac6b23f0119fd3f47166c49214f6c4dda85e76011703e6aacc9d9a17ec209e3",
+      "publishedSha256": "cac6b23f0119fd3f47166c49214f6c4dda85e76011703e6aacc9d9a17ec209e3",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/IkoApplication.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/IkoApplication.java",
+      "sourceSha256": "65f257395fdea72a3b620387167b1bb934ad4ab6399264cfce6ec7e30a789718",
+      "publishedSha256": "65f257395fdea72a3b620387167b1bb934ad4ab6399264cfce6ec7e30a789718",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/IkoLogoView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/IkoLogoView.java",
+      "sourceSha256": "8d09ea19f58bf9812cefaf15e0fba535aa4fc7af575e50b9b747476caf814f0c",
+      "publishedSha256": "8d09ea19f58bf9812cefaf15e0fba535aa4fc7af575e50b9b747476caf814f0c",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ImageTransformView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ImageTransformView.java",
+      "sourceSha256": "aab34f6e3b174f7cdb6d887b0937595cc0f419d9f61ae500de127861e26a1df2",
+      "publishedSha256": "aab34f6e3b174f7cdb6d887b0937595cc0f419d9f61ae500de127861e26a1df2",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InfiniteCanvas.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/InfiniteCanvas.java",
+      "sourceSha256": "528503d7c894d28287212e8f6fac2c7c263d687e4077a118564032ceeafc91ab",
+      "publishedSha256": "528503d7c894d28287212e8f6fac2c7c263d687e4077a118564032ceeafc91ab",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InfinitePanCache.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/InfinitePanCache.java",
+      "sourceSha256": "38b958a0c56074397ff59f755bc64b8a20ff9d0c5d4743d4c152f84689cd663d",
+      "publishedSha256": "38b958a0c56074397ff59f755bc64b8a20ff9d0c5d4743d4c152f84689cd663d",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InkGeometry.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/InkGeometry.java",
+      "sourceSha256": "24101be22cf5ef1a6c55301188365f0e4319aa83c2db571097bf4d2023e72a0f",
+      "publishedSha256": "24101be22cf5ef1a6c55301188365f0e4319aa83c2db571097bf4d2023e72a0f",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InkHistory.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/InkHistory.java",
+      "sourceSha256": "d1563e2366f59b95c5211d13b38c1e36c01fd15d4c99b14d6f15f8abd3fa29ab",
+      "publishedSha256": "d1563e2366f59b95c5211d13b38c1e36c01fd15d4c99b14d6f15f8abd3fa29ab",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InkView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/InkView.java",
+      "sourceSha256": "37a0a38007befb5e515e2f3df89499c63120224543e6ffda6e129cfc5b375226",
+      "publishedSha256": "37a0a38007befb5e515e2f3df89499c63120224543e6ffda6e129cfc5b375226",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InkViewportCache.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/InkViewportCache.java",
+      "sourceSha256": "5dee481b9b65de4ce66938b43c97469395a23e3714f9efeff7253f74e28fe354",
+      "publishedSha256": "5dee481b9b65de4ce66938b43c97469395a23e3714f9efeff7253f74e28fe354",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/InlineToolStrip.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/InlineToolStrip.java",
+      "sourceSha256": "ae3503048ab01a1b0c7be825550b9a9dcdb7a47d8672a01efcf06d3e85dc72f3",
+      "publishedSha256": "ae3503048ab01a1b0c7be825550b9a9dcdb7a47d8672a01efcf06d3e85dc72f3",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/LaserPointer.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/LaserPointer.java",
+      "sourceSha256": "a48682488f0d480fb1d36b5774c92960ac385e18f26b407f540a77ac583ee844",
+      "publishedSha256": "9f1f64010012197c5a756cafce760065761636afea14bcf5da20aa8f497ef91f",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/LibraryCovers.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/LibraryCovers.java",
+      "sourceSha256": "dfce0496386167053a7523b23b2dfa2465316b982e687d142cd0d72108c376ea",
+      "publishedSha256": "dfce0496386167053a7523b23b2dfa2465316b982e687d142cd0d72108c376ea",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/LibraryEntry.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/LibraryEntry.java",
+      "sourceSha256": "d88f0cfeb462845e63005ac37b9c73b83fbaa12b57a26c0a05c58ac81e043e07",
+      "publishedSha256": "d88f0cfeb462845e63005ac37b9c73b83fbaa12b57a26c0a05c58ac81e043e07",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/MainActivity.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/MainActivity.java",
+      "sourceSha256": "809c97b638c13d3503d57467e3b7710bc0dc6f4534b70c596f2356fd1755fb3d",
+      "publishedSha256": "d7cdd6634e7e2037a79e18f050234e01e8db445584a0f19a4d54fb2f75755952",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/MainlandShare.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/MainlandShare.java",
+      "sourceSha256": "91627a948b4e1cf8ffc06787b157b1d61106956516df451afee80cdef138e27d",
+      "publishedSha256": "91627a948b4e1cf8ffc06787b157b1d61106956516df451afee80cdef138e27d",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/MediaIo.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/MediaIo.java",
+      "sourceSha256": "391ee741fbcf5340f52281ffa682ce2dff1c26feb52caa0c8b9dc74cdf67ea9f",
+      "publishedSha256": "391ee741fbcf5340f52281ffa682ce2dff1c26feb52caa0c8b9dc74cdf67ea9f",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NativeNotebookImport.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NativeNotebookImport.java",
+      "sourceSha256": "a2e2aa05e92d4817242a04b8f154b182bb049679158013ab4df6506975e87a59",
+      "publishedSha256": "a2e2aa05e92d4817242a04b8f154b182bb049679158013ab4df6506975e87a59",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NoteAudio.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NoteAudio.java",
+      "sourceSha256": "c71eacd9a44e629015524ae7dbdaa4a1f4beb87ba0839bf564b7615b58700649",
+      "publishedSha256": "c762804ed8a18ca1080aff1592784011ecab09beb1dfac830fbf9ecde62189fe",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NotebookArchive.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NotebookArchive.java",
+      "sourceSha256": "4c3664a536dd122037ccc66ccc1f8c01310264205eef83bf3306ffcbae44c13f",
+      "publishedSha256": "4c3664a536dd122037ccc66ccc1f8c01310264205eef83bf3306ffcbae44c13f",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NotebookWire.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NotebookWire.java",
+      "sourceSha256": "6e3988f5e318aa780815efdf927feb68d43a05d3530c1b9210a129ef5564771e",
+      "publishedSha256": "6e3988f5e318aa780815efdf927feb68d43a05d3530c1b9210a129ef5564771e",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NoteCapture.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NoteCapture.java",
+      "sourceSha256": "0b585339d3c6d27e4a32b3d64d9b520046631040298b96004619d2abd02ecaed",
+      "publishedSha256": "0b585339d3c6d27e4a32b3d64d9b520046631040298b96004619d2abd02ecaed",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NoteCoverThumbnail.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NoteCoverThumbnail.java",
+      "sourceSha256": "a11a5db375df72ec1812edcdd5db1089c22dee3b20e65478e309ab5fcbb09de3",
+      "publishedSha256": "a11a5db375df72ec1812edcdd5db1089c22dee3b20e65478e309ab5fcbb09de3",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NoteDocument.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NoteDocument.java",
+      "sourceSha256": "df2d0bc00afd4ea05c69e1a31334ff1a50731bf3373cd41b4ee1ffeb436f1adf",
+      "publishedSha256": "bd2955a64d9daf8559815e337d1f7edfeae2049d31bcf7ba068e7009e7479ea3",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NoteFiles.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NoteFiles.java",
+      "sourceSha256": "9b79876aa54d2a98dc7503f32ae161e5699ca16fc715a6b752a23ddfee99c716",
+      "publishedSha256": "9b79876aa54d2a98dc7503f32ae161e5699ca16fc715a6b752a23ddfee99c716",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NoteRecordingInbox.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NoteRecordingInbox.java",
+      "sourceSha256": "dc9587874f435d409bcce3e545e89827df008051cf4f0ef928dcef67ec7763e4",
+      "publishedSha256": "dc9587874f435d409bcce3e545e89827df008051cf4f0ef928dcef67ec7763e4",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NotesHost.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NotesHost.java",
+      "sourceSha256": "1588a894811928fb970ebb726d5f64d4d6a98626f3ee4237c5186f5fe0ea425a",
+      "publishedSha256": "27a87436a6357aa372c9b8bc33437c3aabd8b88891ca2ebae03103a3b24b50ea",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NotesLibraryMigration.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NotesLibraryMigration.java",
+      "sourceSha256": "32b86a946451afabd2a5cee34004e1c7b9c5d1abef2b103fd0e10df61e29b25e",
+      "publishedSha256": "32b86a946451afabd2a5cee34004e1c7b9c5d1abef2b103fd0e10df61e29b25e",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NotesStorage.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NotesStorage.java",
+      "sourceSha256": "0acb05dbfe6ac7492b4b5f4eb41888a9858fedceee41e3c6a105a26a3b550692",
+      "publishedSha256": "0acb05dbfe6ac7492b4b5f4eb41888a9858fedceee41e3c6a105a26a3b550692",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NotesTrashJobService.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NotesTrashJobService.java",
+      "sourceSha256": "be213652e52462fb04fa9ea4cf17de7db8ae5175c87ca7653cae2300e04d1602",
+      "publishedSha256": "be213652e52462fb04fa9ea4cf17de7db8ae5175c87ca7653cae2300e04d1602",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NotesWorkspace.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NotesWorkspace.java",
+      "sourceSha256": "a9b911d3ed91e64d51fae295382723ca806536f45bb758808a32891828928578",
+      "publishedSha256": "39ba4c73eb718c110a32b2d3c0f11ad7372c481b3d102b40ec8c5f18d198ea6d",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NotesWorkspaceRoot.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NotesWorkspaceRoot.java",
+      "sourceSha256": "2c55152d2bdef8dece8e8fddc4980e9cd7b0a9e348c390255b480584356009fe",
+      "publishedSha256": "7dfeff9a3264b0488ee00369b9af95dfe393459ec88ba8a5d623f945b40a6e41",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/NoteTypes.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/NoteTypes.java",
+      "sourceSha256": "a6e31774a62b05eeafc4d627012de65206782fcc63728a1706604925ec7078e8",
+      "publishedSha256": "a6e31774a62b05eeafc4d627012de65206782fcc63728a1706604925ec7078e8",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ObjectTransform.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ObjectTransform.java",
+      "sourceSha256": "5af0dbcbefb7c6dcb0dc24d07283eb056283ec2c5735541aacf8541532c2f0a1",
+      "publishedSha256": "5af0dbcbefb7c6dcb0dc24d07283eb056283ec2c5735541aacf8541532c2f0a1",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/OfficeFonts.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/OfficeFonts.java",
+      "sourceSha256": "c96516b3fa32a54e0913793610c41a802f535b0a4074437cbf46d6e23f78493a",
+      "publishedSha256": "c96516b3fa32a54e0913793610c41a802f535b0a4074437cbf46d6e23f78493a",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/OfficeImport.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/OfficeImport.java",
+      "sourceSha256": "1a28d9c25b27c4bde9c22acba903a7ef0cc0b38c934d6502d1deef7d5e214c82",
+      "publishedSha256": "1a28d9c25b27c4bde9c22acba903a7ef0cc0b38c934d6502d1deef7d5e214c82",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/OneNoteLocalImporter.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/OneNoteLocalImporter.java",
+      "sourceSha256": "e93e5d28c2942449ee2b0bf10e8fd81d5ca8c7290a36a0f63ba7785ecfd2bf53",
+      "publishedSha256": "e93e5d28c2942449ee2b0bf10e8fd81d5ca8c7290a36a0f63ba7785ecfd2bf53",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/OneNotePdfBridge.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/OneNotePdfBridge.java",
+      "sourceSha256": "16df2d8b965aa8dada1d9614180a6f26002ef1e7f73af47d3e716e340103785c",
+      "publishedSha256": "16df2d8b965aa8dada1d9614180a6f26002ef1e7f73af47d3e716e340103785c",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/OneNoteSceneRenderer.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/OneNoteSceneRenderer.java",
+      "sourceSha256": "98cdbb7e9a8a0eca2a474d4ac6071a550452fbe19a3e51b0a7eb560c42ea5f5e",
+      "publishedSha256": "98cdbb7e9a8a0eca2a474d4ac6071a550452fbe19a3e51b0a7eb560c42ea5f5e",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PageMediaCache.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PageMediaCache.java",
+      "sourceSha256": "612248f209eac6085e26bf1d5695b9e70799883caaf2dfe2c12f9a3f59318ea1",
+      "publishedSha256": "612248f209eac6085e26bf1d5695b9e70799883caaf2dfe2c12f9a3f59318ea1",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PageNavigation.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PageNavigation.java",
+      "sourceSha256": "6485c2197f28b43bdc2d4c74968bb0ac06fe34e7217e41616fcf1528aa1de6a0",
+      "publishedSha256": "6485c2197f28b43bdc2d4c74968bb0ac06fe34e7217e41616fcf1528aa1de6a0",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PagePullIndicator.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PagePullIndicator.java",
+      "sourceSha256": "f39fa6b0178d5efc58de65ada42f829a7452660c8509902f004ba97405f175ba",
+      "publishedSha256": "f39fa6b0178d5efc58de65ada42f829a7452660c8509902f004ba97405f175ba",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PageRenderer.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PageRenderer.java",
+      "sourceSha256": "f69a8f5651bfae1f876f32fa267d956dc4539b27445e2beae9b7ce94a0be24fc",
+      "publishedSha256": "8809c3390aa5ec46f31a899b78c974a8e809ff1f8d4f3237c10e87e0e168f3f6",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PaperCatalog.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PaperCatalog.java",
+      "sourceSha256": "be2b784fc8eb798b8e1549a05c3008eb23363d20083511e6001f806f9a796096",
+      "publishedSha256": "be2b784fc8eb798b8e1549a05c3008eb23363d20083511e6001f806f9a796096",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PaperPickerView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PaperPickerView.java",
+      "sourceSha256": "a519e67c88c669076588587a649ce4880e45ec37b72f9f5bd537301b1aca2fe9",
+      "publishedSha256": "0a8cd34f478946a047e32bc5445eee0c23b7c27153cefe78f571cb60ce69d57d",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PdfDetailCache.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PdfDetailCache.java",
+      "sourceSha256": "5f178bef5995860065588257eeb066ef71387290cce608025b374bdbca25a343",
+      "publishedSha256": "5f178bef5995860065588257eeb066ef71387290cce608025b374bdbca25a343",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PenPreset.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PenPreset.java",
+      "sourceSha256": "3b4de6ebcb3c292da9b8d19cebb2c6a53c04895f249bfa324be32f5ebb4ee9e2",
+      "publishedSha256": "3b4de6ebcb3c292da9b8d19cebb2c6a53c04895f249bfa324be32f5ebb4ee9e2",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PlainNotesLibrary.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PlainNotesLibrary.java",
+      "sourceSha256": "7a3f9bd2ffdaa774ea989a7b9b384fa011da58b1cd9d39f48f57d5ea07e257fe",
+      "publishedSha256": "5dd53518902cc071231205ea41020bcf54882d047d9037fe8153262dc3fc8ba0",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PlainNotesLibraryArchive.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PlainNotesLibraryArchive.java",
+      "sourceSha256": "a1d9d9247763f188140a86396ef79fd86abd6821a40dbd03a479f5484c9c7984",
+      "publishedSha256": "a1d9d9247763f188140a86396ef79fd86abd6821a40dbd03a479f5484c9c7984",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/PreparedNotesImport.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/PreparedNotesImport.java",
+      "sourceSha256": "988dec6f54bf47d630204515a914f73371ab448a9b90345dafe655b5c8dd559c",
+      "publishedSha256": "988dec6f54bf47d630204515a914f73371ab448a9b90345dafe655b5c8dd559c",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ReadingPositionStore.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ReadingPositionStore.java",
+      "sourceSha256": "d7dfc017ee87d66d75c918f7084667bdeb0ceea1e545fea62a6a3e98306a300d",
+      "publishedSha256": "d7dfc017ee87d66d75c918f7084667bdeb0ceea1e545fea62a6a3e98306a300d",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ResourceHttp.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ResourceHttp.java",
+      "sourceSha256": "191db2acf19879f96fa81b8d5bc79a7c3ec25301053178fbda5bfbc19e9fd4cb",
+      "publishedSha256": "191db2acf19879f96fa81b8d5bc79a7c3ec25301053178fbda5bfbc19e9fd4cb",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ResourcePacks.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ResourcePacks.java",
+      "sourceSha256": "0184edc50326fa1809571eefe981d7e7dd2f1b08be3e5916861285e8d6520eeb",
+      "publishedSha256": "e2fa1f988e972de6c2b7393f4252f092ac76219166809ec24c5441c6eee120d6",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ResourcePacksStore.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ResourcePacksStore.java",
+      "sourceSha256": "20891cafb05daeef6d32bbd446a9065ec4a80381e6c141bddb5bf6c4f4f59793",
+      "publishedSha256": "20891cafb05daeef6d32bbd446a9065ec4a80381e6c141bddb5bf6c4f4f59793",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/RichTextImport.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/RichTextImport.java",
+      "sourceSha256": "73166370b9a7aa4f20da54034c6f7a8ff99cd5a83db48aff59026e30a66daac3",
+      "publishedSha256": "73166370b9a7aa4f20da54034c6f7a8ff99cd5a83db48aff59026e30a66daac3",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/RotationGlyph.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/RotationGlyph.java",
+      "sourceSha256": "2f74efe5630a64a37f0a387b94a41ed1285e2ecbeac47abb2fae593a0bc13292",
+      "publishedSha256": "2f74efe5630a64a37f0a387b94a41ed1285e2ecbeac47abb2fae593a0bc13292",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ScreenCaptureService.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ScreenCaptureService.java",
+      "sourceSha256": "06d2ee651d9b1d7acc800cf18dfdeb924ae31c6eaa7df4d8ce147192d11cdfe9",
+      "publishedSha256": "4526b0f9136deaefe017495757975f4f58ed491a4a6ebb270fd8dd8a11da3fa5",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ShareFileProvider.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ShareFileProvider.java",
+      "sourceSha256": "83569bf91ef82caece650875b2441e3e6b63450a9c4d8d5b8e1d5939e863a768",
+      "publishedSha256": "83569bf91ef82caece650875b2441e3e6b63450a9c4d8d5b8e1d5939e863a768",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/StrokeEraser.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/StrokeEraser.java",
+      "sourceSha256": "ebd7d291a14f72142f8081831f771bda029145f53652e1555830fd16bb031090",
+      "publishedSha256": "ebd7d291a14f72142f8081831f771bda029145f53652e1555830fd16bb031090",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/StrokeSpatialIndex.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/StrokeSpatialIndex.java",
+      "sourceSha256": "869dfd6352d15d1181096471a2324360e6308d83f145ac2876998c06146d9fac",
+      "publishedSha256": "869dfd6352d15d1181096471a2324360e6308d83f145ac2876998c06146d9fac",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/StudyTools.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/StudyTools.java",
+      "sourceSha256": "08f80d10dd2c9060e90e221f153c3cb614074fd60ba4a4c6ab9b8cec3a670e8b",
+      "publishedSha256": "8f6deea255c9c27195667c1682ea752a8b0886ce8f2ac7ee3f66d0002e5b53c0",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/StylusButtonState.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/StylusButtonState.java",
+      "sourceSha256": "3d642b3b8c483c44e502b3a3ceb5a6a575389c277d32ebb2f53545814b647cd0",
+      "publishedSha256": "3d642b3b8c483c44e502b3a3ceb5a6a575389c277d32ebb2f53545814b647cd0",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/StylusProfiles.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/StylusProfiles.java",
+      "sourceSha256": "4a51cd3ef8c0a0acf6e12238fe525a460aa503613eff8036f1e841849c0ce0d3",
+      "publishedSha256": "4a51cd3ef8c0a0acf6e12238fe525a460aa503613eff8036f1e841849c0ce0d3",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/TapeArt.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/TapeArt.java",
+      "sourceSha256": "47c8bbecab55e5374ff7f1dba67bd0fbe7bbdb64bed65647eb54b355949016d1",
+      "publishedSha256": "47c8bbecab55e5374ff7f1dba67bd0fbe7bbdb64bed65647eb54b355949016d1",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/TemplateLibrary.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/TemplateLibrary.java",
+      "sourceSha256": "152fae7473194afdf12f01bd576293edfd723a0383a98b3c9648bc6b453c89f9",
+      "publishedSha256": "152fae7473194afdf12f01bd576293edfd723a0383a98b3c9648bc6b453c89f9",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/TemplatePickerView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/TemplatePickerView.java",
+      "sourceSha256": "1359aa0b1fb583be304b76285486801e6fce0ce434a6c9ca9519bdd2e85d63a1",
+      "publishedSha256": "2ff5ca8b6c441b872364567f4959366c401a53f82141fc7e5be195734ed3769d",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ThemePalette.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ThemePalette.java",
+      "sourceSha256": "b0cb52c7d765c67bf919df529d12d84eed197db57c1f9b6a203ea47a0d9fd489",
+      "publishedSha256": "b0cb52c7d765c67bf919df529d12d84eed197db57c1f9b6a203ea47a0d9fd489",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/ToolPanelScrollView.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/ToolPanelScrollView.java",
+      "sourceSha256": "78e986189a43ca5d56bd9c2e0009d9ff4f62cf067bdb982c75b2a2cd13ac079f",
+      "publishedSha256": "78e986189a43ca5d56bd9c2e0009d9ff4f62cf067bdb982c75b2a2cd13ac079f",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/Ui.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/Ui.java",
+      "sourceSha256": "8ca8ca31cf1567c34d60e20b2a8526e221c57bb69c3673f1a7da0c823367d02a",
+      "publishedSha256": "8ca8ca31cf1567c34d60e20b2a8526e221c57bb69c3673f1a7da0c823367d02a",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/VectorPdfExport.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/VectorPdfExport.java",
+      "sourceSha256": "94ac8181f480c342e5fe8c9e3c9239b14aaa7b69e5802fe73130a11a9b4aff41",
+      "publishedSha256": "94ac8181f480c342e5fe8c9e3c9239b14aaa7b69e5802fe73130a11a9b4aff41",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/app/iko/notes/XiaomiPenKeys.java",
+      "target": "reference/shared/notes/src/main/java/app/iko/notes/XiaomiPenKeys.java",
+      "sourceSha256": "6dcf9fed9b9a28e9967e024cbdb39629c37870c5684993575e0eaa28ec121adb",
+      "publishedSha256": "6dcf9fed9b9a28e9967e024cbdb39629c37870c5684993575e0eaa28ec121adb",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/java/org/libreoffice/kit/DirectBufferAllocator.java",
+      "target": "reference/shared/notes/src/main/java/org/libreoffice/kit/DirectBufferAllocator.java",
+      "sourceSha256": "fa8d7ad30af67a04ab03820a6a61f15728879540aaec49bda99793ed5f6521ae",
+      "publishedSha256": "4472c23cc0e73c9406fc13625c7ae24296e6def46c7ff94560e9dd1efea3957c",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/org/libreoffice/kit/Document.java",
+      "target": "reference/shared/notes/src/main/java/org/libreoffice/kit/Document.java",
+      "sourceSha256": "c2d114eb359dc4b3746a0234f0483764dece6942a354a453f109b1fb61a736c3",
+      "publishedSha256": "321461b4c99788895b7470e25c3fc950ee1b2c3f982c12d67096497b188b6d68",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/org/libreoffice/kit/LibreOfficeKit.java",
+      "target": "reference/shared/notes/src/main/java/org/libreoffice/kit/LibreOfficeKit.java",
+      "sourceSha256": "e048418f35b5a48d8355bca042613ab84087b7a9ec99a2c97eae7f7b5ba2d7ca",
+      "publishedSha256": "7356a7f19a0c1f06ea1aff42e4050af5b09267cd134c8cd55586391294b80ce7",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/java/org/libreoffice/kit/Office.java",
+      "target": "reference/shared/notes/src/main/java/org/libreoffice/kit/Office.java",
+      "sourceSha256": "b2b221c61ea91bd53a6cb788568ab33f64bca46ce02d31ed68fe76e4a21cea42",
+      "publishedSha256": "e2b8bf695095dcd172e7f2a5398574376f648899922a930d19d566d16f9c169a",
+      "adapted": true
+    },
+    {
+      "source": "shared/notes/src/main/assets/licenses/Apache-2.0.txt",
+      "target": "reference/licenses/Apache-2.0.txt",
+      "sourceSha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "publishedSha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/assets/licenses/flexcil-viewer-MIT.txt",
+      "target": "reference/licenses/flexcil-viewer-MIT.txt",
+      "sourceSha256": "58e64d9736d65b2f8337ce244b4e9016f7e4a5f27561ede6eee5323849723f47",
+      "publishedSha256": "58e64d9736d65b2f8337ce244b4e9016f7e4a5f27561ede6eee5323849723f47",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/assets/licenses/goodnotes-parser-MIT.txt",
+      "target": "reference/licenses/goodnotes-parser-MIT.txt",
+      "sourceSha256": "e3ab41001dd816a0797197318c2568c7990e187379352aa97c2a9eca049f8686",
+      "publishedSha256": "e3ab41001dd816a0797197318c2568c7990e187379352aa97c2a9eca049f8686",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/assets/licenses/inkterop-MIT.txt",
+      "target": "reference/licenses/inkterop-MIT.txt",
+      "sourceSha256": "ff4e4ce398ff955624a273af05f84a04b7881cce60b12cdffc4c84caeb2c854a",
+      "publishedSha256": "ff4e4ce398ff955624a273af05f84a04b7881cce60b12cdffc4c84caeb2c854a",
+      "adapted": false
+    },
+    {
+      "source": "shared/notes/src/main/assets/licenses/pdfbox-NOTICE.txt",
+      "target": "reference/licenses/pdfbox-NOTICE.txt",
+      "sourceSha256": "696cbf991be6c429786abd835033ddfb1c29a67136ed05ad48cf359997d6ef96",
+      "publishedSha256": "696cbf991be6c429786abd835033ddfb1c29a67136ed05ad48cf359997d6ef96",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/notes/notes_coordinator.dart",
+      "target": "reference/flutter/lib/services/notes/notes_coordinator.dart",
+      "sourceSha256": "a2647e970b3860b97742bbe36647732e38486c2ccd32a1189431777a8dab1d72",
+      "publishedSha256": "08a9b5ffdcf32137dc85b876385a1906ec78ad4b2d9d960bca951eb3317e4b3b",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/notes/note_library_files.dart",
+      "target": "reference/flutter/lib/services/notes/note_library_files.dart",
+      "sourceSha256": "54adb70cc777fd7de61da41c6938ebaed29ac6d4bc5ce4aa0c55d8b42291b535",
+      "publishedSha256": "54adb70cc777fd7de61da41c6938ebaed29ac6d4bc5ce4aa0c55d8b42291b535",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/notes/notes_screen.dart",
+      "target": "reference/flutter/lib/features/notes/notes_screen.dart",
+      "sourceSha256": "07913bd601ce78e56d49528d2c62a5ecb389fae32fba8c99a849cb746661485b",
+      "publishedSha256": "e480f4d10a193bc30ce08a0763dd64b9cbb8cabfe2bfd77180e35dcbe6eede14",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/notes/notes_pane.dart",
+      "target": "reference/flutter/lib/features/notes/notes_pane.dart",
+      "sourceSha256": "69c5250a23675df16279e322ee958cbcc8c848072bf12402a93cfff5f912a531",
+      "publishedSha256": "3ac35d6b816d7b16660460ef0de69dd3c9d9922a1be0b3d6468a947a5fb71757",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/app/src/main/kotlin/com/classmate/classmate/NotesBridge.kt",
+      "target": "reference/android/NotesBridge.kt",
+      "sourceSha256": "2d1ca49847e82aacab0d80f7ee5d8c1ae9191c727a44ebbb17f44f1e674c5c8b",
+      "publishedSha256": "b87a65963eb15c8e1fe7d1c01e10ebe994b296485b5f513ac5ea4d3f1b36990f",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/app/src/main/kotlin/com/classmate/classmate/NotesWorkspaceHost.kt",
+      "target": "reference/android/NotesWorkspaceHost.kt",
+      "sourceSha256": "cf7155d74571cee278c5822eb6f2e7a20a638fb9a8ee0311ef8377382cd6c2d0",
+      "publishedSha256": "7c6fc3a96a1179997a1141cbf9c1891d5491ee3b298aa8936abe61ac074b478f",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/app/src/main/kotlin/com/classmate/classmate/NotesImportActivity.kt",
+      "target": "reference/android/NotesImportActivity.kt",
+      "sourceSha256": "4184beb032f557475b94613a87e04ee59acaf3123bc7ab2ff33cbfe9d6be7ab3",
+      "publishedSha256": "4184beb032f557475b94613a87e04ee59acaf3123bc7ab2ff33cbfe9d6be7ab3",
+      "adapted": false
+    }
+  ],
+  "excludedFiles": {},
+  "generatedFiles": [
+    {
+      "target": ".gitattributes",
+      "sha256": "ba760de3d447e0b3f71a54df3e3360231b05dd98b4584b92b1e792a53eefdd0d"
+    },
+    {
+      "target": ".gitignore",
+      "sha256": "a8a1ac48c52460c848ecb12ed507fe6212b8fecb149c17c7eb2f037ebafd40c8"
+    },
+    {
+      "target": "build.gradle",
+      "sha256": "fa8654897462695cc83d668175dd91938d1fe532a10018dbe78d13732d907d1a"
+    },
+    {
+      "target": "CONTRIBUTING.md",
+      "sha256": "70229ef64c017ab35611eaabf4ff90af9dbbdbe3bdc4ee6cbffddd8477b979e1"
+    },
+    {
+      "target": "GRADLE-LICENSE",
+      "sha256": "9536d88ea948603d18e232a13f5958d67807cd80828036b082bff171d2cf0703"
+    },
+    {
+      "target": "GRADLE-NOTICE",
+      "sha256": "c2de5fd9adc7ccc4e1382a0e1f38ec6e14f8ca6e28d3c20289fe80353b019aa1"
+    },
+    {
+      "target": "gradle.properties",
+      "sha256": "cc38bc495ca4e4d7fa2fe7c9c1112f36af7a63fbf4fc3e7a088e215942403385"
+    },
+    {
+      "target": "gradlew",
+      "sha256": "734b3879d3501dce471cf0522d3bcbafe76873d9fc5129345b67fb43bd15e933"
+    },
+    {
+      "target": "gradlew.bat",
+      "sha256": "2209f919a22528af59a2af2ad97e8d056cca18e39f7d87aa3fd549a73b180150"
+    },
+    {
+      "target": "LICENSE",
+      "sha256": "0ce17ff75376a5e69f909e91b4b145c36ce3848e95156d764a5a37a0d4a6ffdc"
+    },
+    {
+      "target": "README.md",
+      "sha256": "0a1eca92577cc1d25420fa346d148bc1e611bfcdf72d92c2260ed6643d933adf"
+    },
+    {
+      "target": "SECURITY.md",
+      "sha256": "e00ee6595322461749c1030aa9697f40e34e9826480c2c34927907a7f77f3b36"
+    },
+    {
+      "target": "settings.gradle",
+      "sha256": "baf5aef1290b52e36404ca66666ad8c77e485c7fdbdb44311380fcf4ebeda9ea"
+    },
+    {
+      "target": "THIRD-PARTY.md",
+      "sha256": "cf8d872775bf118e6d45bf6a58107a3083b37111467d69848fd69f2f4bd0e440"
+    },
+    {
+      "target": "VALIDATION.md",
+      "sha256": "f25a1e2ffcea08a985384674dcd13b3d75f0f47140c1881ef09ea92b948eea44"
+    },
+    {
+      "target": "app/build.gradle",
+      "sha256": "5d08104df9c58d09fdf0fed99cf5001ea137d5d1d2275d2f74ef7b4e64b32ef0"
+    },
+    {
+      "target": "app/src/main/AndroidManifest.xml",
+      "sha256": "f7d6d5ee5c2c72fa6b6a4dbee54224d52e614d4ba81fbbf82f4b320844c12117"
+    },
+    {
+      "target": "app/src/main/java/app/iko/notes/ExampleActivity.java",
+      "sha256": "6dca1038a2763f925df90367bf913826fd218010172045ac5f886b43b2cff37a"
+    },
+    {
+      "target": "app/src/main/java/app/iko/notes/ExampleNotebookSession.java",
+      "sha256": "b13554d3a6b3bbdc7830cabce50fd569a4f102050049f393d879e7a38930e6f0"
+    },
+    {
+      "target": "app/src/test/java/app/iko/notes/ExampleNotebookSessionTest.java",
+      "sha256": "3d2849453e27bf7507eea505ccd3d2fc405eb7771ed0d28af0102a1addf7d9d7"
+    },
+    {
+      "target": "docs/INTEGRATION.md",
+      "sha256": "3dc9efa2619cea00c1c869ec49be50e0272352ac0ad6602eb9b9263b74ed0817"
+    },
+    {
+      "target": "gradle/wrapper/gradle-wrapper.jar",
+      "sha256": "81a82aaea5abcc8ff68b3dfcb58b3c3c429378efd98e7433460610fecd7ae45f"
+    },
+    {
+      "target": "gradle/wrapper/gradle-wrapper.properties",
+      "sha256": "3b6b8df392b92f86332d907707f3d952a32c8d6e1fedabafe2b5ec3d933a78c4"
+    },
+    {
+      "target": "reference/licenses/OFFICE-MPL-2.0.txt",
+      "sha256": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
+    }
+  ]
+}

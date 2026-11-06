@@ -1,0 +1,6 @@
+PdfBox-Android 2.0.27.0
+https://github.com/TomRoush/PdfBox-Android
+Copyright the PdfBox-Android contributors.
+Based on Apache PDFBox / FontBox, Copyright The Apache Software Foundation.
+Distributed under the Apache License 2.0 (Apache-2.0.txt).
+The official Maven AAR is bundled unmodified; optional BouncyCastle cryptography is not bundled.
